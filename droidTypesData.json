@@ -1,0 +1,46 @@
+[
+{
+    "name":"Assassin droids",
+    "shortname":"Assassin_droids",
+    "reknown":"Assassin_droids",
+    "bio":"These droids were used to kill specific targets, often those too well guarded for approach by conventional means."
+  },
+  {
+    "name":"Astromech droids",
+    "shortname":"Astromech_droids",
+    "reknown":"Astromech droids",
+    "bio":"Droids used for interstellar starships, astromech droids, were mobile multi-role droids capable of hyperspace navigation, systems monitoring/control, damage repair, and data storage."
+  },
+  {
+    "name":"Battle droids",
+    "shortname":"Battle_droids",
+    "reknown":"Battle droids",
+    "bio":"Droids were used most commonly in combat-related roles, where they offered a plethora of advantages over organic units. Droids could carry heavy weaponry and shielding, move rapidly without tiring, analyze targeting and trajectory calculations instantly, and protect crucial systems by burying them deep inside the frame of the droid (often featuring backup processing and multiple layers of redundancy). Droids could follow orders to the letter, taking risks no organic unit ever would yet still maintaining their calm precision. Most importantly, however, these droids were expendable—unlike sentients, the amount of time and energy it cost to assemble a droid was often a tiny fraction that of recruiting (or growing) an organic and training them. Built on massive automated assembly lines, like the ones on Geonosis, thousands of capable droids could be produced in a matter of hours. Because of these factors, droids were used extensively as military units, most famously by the Confederacy of Independent Systems. Despite these advantages, however, combat droids suffered from several drawbacks. Most importantly, in order to create total obedience and foil any chance of rebellion, droid units were often crippled with extremely sub-par artificial intelligence. This drawback was exemplified by the hideously poor A.I. of the B1 battle droid, which rarely served any purpose other than as cannon fodder. Also, many (though not all) droid units lacked the flexibility and manipulation capabilities of organic units, especially in terms of hand and finger use."
+  },
+  {
+    "name":"Medical droids",
+    "shortname":"Medical_droids",
+    "reknown":"Medical droids",
+    "bio":"Droids were also used in the field of medical science. They offered advantages over Humans in that they could be programmed with massive amounts of information, none of which would be forgotten, making them extremely cost-effective. Meddroids, as they were known, could store detailed records on hundreds of patients, in addition to exhaustive information on diseases, wounds, and infirmities. Medical droids could analyze wounds or diseases and automatically determine severity of injury, necessary medication, and possible side-effects; all by utilizing sensors and extensive databanks. The emotional detachment of these medical droids was both a blessing and a curse—an advantage because droids did not let emotions interfere with their task, but a disadvantage in that patients could often feel alienated from an impersonal machine. These droids could also operate on patients, using built-in tool extensions and surgical implements. These arm extensions were often modular, allowing rapid change from one medical specialization to another (e.g. from neurosurgery to pediatrics). Because of the high costs associated with comprehensive meddroids, some model lines (such as the DD-13 line or FX-7 models) were not as sophisticated and were usually used as assistants. These medical assistant droids offered some independent functionality but were meant to be used in cooperation with dedicated medical droids, or with organic physicians."
+  },
+  {
+    "name":"Pilot droids",
+    "shortname":"Pilot_droids",
+    "reknown":"Pilot droids",
+    "bio":"Droids were also used in piloting roles, both directly and indirectly. Some were used for atmospheric flight, while others were used for interstellar navigation. Droids were well-suited for piloting roles for several reasons: they could be programmed with detailed schematics of a ship, they would not panic when under enemy fire, they could maintain tight formations and execute precision attack plans, and, because of their close integration with the ship's computers, they could monitor and repair damage to the ship far more effectively than a Human. Because of their expendability, droid pilots did not require escape pods or other life support systems, saving cost and complexity on the ships they flew."
+  }
+  ,
+  {
+    "name":"Protocol_droids",
+    "shortname":"Protocol_droids",
+    "reknown":"Protocol droids",
+    "bio":"Droids that were used to handle diplomatic affairs, and aid in translation between various languages, were known as protocol droids. Like medical droids, protocol droids utilized massive databanks, being programmed with thousands of different languages and dialects. Protocol droids were equipped with aural sensors, to receive audio information, and processing units, to analyze and apply necessary programming. Because of their close integration with sentients, protocol droids were often given in-depth personality matrices, allowing for a variety of different personalities and behaviors through a process called metaprogramming."
+  }
+  ,
+  {
+    "name":"Scout droids",
+    "shortname":"Scout_droids",
+    "reknown":"Scout droids",
+    "bio":"Droids were used in exploration and scouting roles as well, providing a cheap yet effective mobile sensor platform. Probe droids, often launched by the thousands, would use a one-shot propulsion system to reach the targeted area. Upon arrival, these droids would analyze the area with their powerful sensor arrays; sending the results of the scan back to the droid's creator.  Droids of this type were used in many roles: military reconnaissance, deep space exploration, and mineral prospecting (primarily in asteroid fields). Other models were atmospheric-bound, relying on repulsorlift technology to move rapidly and traverse height differentials. Most scout droids carried a similar core loadout—a multiple-spectrum photoreceptor, a magnetic imaging device, a thermal imager, and signals transmission equipment. Some models featured built-in weaponry, such as a blaster, or expansion slots that could be used for a variety of additional sensors or weapons. Some droids also included a self-destruct mechanism to prevent acquisition by others. Because of their clearly defined role and the need to keep the cost per unit down, probe droids were given inexpensive processing units and relatively 'dumb' A.I. This resulted in a lack of flexibility and systemic errors when confronted with unknown circumstances not outlined in the computer's parameters. These drawbacks aside, probe droids were very effective in their native role: providing inexpensive but broad sensor capability, regardless of climate, radiation levels, or hostile presence."
+  }
+]
